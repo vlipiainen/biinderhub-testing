@@ -1,0 +1,1 @@
+python test_suite.py --trials 3 --delta 2 --shortcycl 5 --longcycl 2
